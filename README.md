@@ -6,5 +6,5 @@ L'applicazione è tratta dal bootcamp: https://bootcamp.laravel.com/
 
 ## Autori 
 
-- Marco Giansante
+° Marco Giansante Msg: "Holaa!"
 
