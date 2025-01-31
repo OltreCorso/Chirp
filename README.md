@@ -6,3 +6,5 @@ L'applicazione è tratta dal bootcamp: https://bootcamp.laravel.com/
 
 ## Autori
 - Martina Galluzzi
+- Ettore Conte
+- Mircha Emanuel `ryuujin` D'Angelo
