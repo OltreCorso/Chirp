@@ -6,6 +6,10 @@ L'applicazione è tratta dal bootcamp: https://bootcamp.laravel.com/
 
 ## Autori
 
+- Silvano De Gregorio
+
+
 - Alexandru Ungureanu
 - Ettore Conte
 - Mircha Emanuel `ryuujin` D'Angelo
+
