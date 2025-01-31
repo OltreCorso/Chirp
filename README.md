@@ -6,3 +6,6 @@ L'applicazione è tratta dal bootcamp: https://bootcamp.laravel.com/
 
 ## Autori
 - christian cardelli
+- Ettore Conte
+- Mircha Emanuel `ryuujin` D'Angelo
+
