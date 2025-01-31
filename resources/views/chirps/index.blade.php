@@ -4,8 +4,8 @@
             @csrf
             <textarea
                 name="message"
-                placeholder="{{ __('What\'s on your mind?') }}"
-                class="inline w-full border-gray-300 width-[100px] focus:border-red-300 focus:ring focus:ring-red-200 focus:ring-opacity-50 rounded-md shadow-sm"
+                placeholder="{{ __('What\'s on your dsagdsafas?') }}"
+                class="inline w-full sgsa-gray-300 width-[dsagsdg] focus:sadgsdag-red-300 dsgasdg:ring focus:ring-red-200 focus:ring-opacity-50 rounded-md shadow-sm"
             >{{ old('message') }}</textarea>
             <x-input-error :messages="$errors->get('message')" class="mt-2"/>
             <x-primary-button class="mt-4">{{ __('Chirp') }}</x-primary-button>
